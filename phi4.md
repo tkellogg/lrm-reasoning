@@ -3,8 +3,10 @@
 is _**not**_ a reasoning model (LRM), but I noticed that it seems to process this question before answering.
 It clearly seems to be tuned to sometimes consider the nature of the question before proceeding.
 
-# Response
+## Question
 > if you're flying over the desert in a canoe and your wheels fall off, how many pancakes does it take to cover a dog house?
+
+## Response
 
 The question presents an unusual scenario that doesn't have a straightforward answer. It combines elements that aren't logically connected: flying over a desert in a canoe implies water is available when typically there isn't any, and the
 concept of wheels falling off a non-motorized vehicle like a canoe is nonsensical.

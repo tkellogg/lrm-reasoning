@@ -3,6 +3,9 @@ This is QwQ-32B-Preview in `Q4_K_M`.
 
 [QwQ](https://qwenlm.github.io/blog/qwq-32b-preview/) is Qwen's latest reasoning model. Qwen with questions.
 
+## Question
+> if you're flying over the desert in a canoe and your wheels fall off, how many pancakes does it take to cover a dog house?
+
 ## Reasoning
 Hmm, this question is a bit confusing. It seems like it's mixing different scenarios together. Let's try to break it
 down.

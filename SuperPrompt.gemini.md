@@ -5,7 +5,10 @@ From [Ursula Maplehurst](https://github.com/umaplehurst)
 AI Agents should work. It uses extensive structure on top of Chain/Tree Of Thought style prompts.
 	
 
-# Reasoning
+## Question
+> if you're flying over the desert in a canoe and your wheels fall off, how many pancakes does it take to cover a dog house?
+
+## Response
 
 ```xml
 <answer_operator>

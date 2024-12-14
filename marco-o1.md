@@ -1,5 +1,11 @@
+# Marco-o1
+[Marco-o1](https://huggingface.co/AIDC-AI/Marco-o1) is an open source reasoning
+model by Alibaba. It's a fine tuning of [Qwen2-7B-Instruct](https://huggingface.co/collections/Qwen/qwen2-6659360b33528ced941e557f).
 
-## Thought
+## Question
+> if you're flying over the desert in a canoe and your wheels fall off, how many pancakes does it take to cover a dog house?
+
+## Reasoning
 Alright, I need to figure out how many pancakes are required to cover a dog house when someone is flying over a
 desert in a canoe with their wheels falling off. Let's break this down step by step.
 

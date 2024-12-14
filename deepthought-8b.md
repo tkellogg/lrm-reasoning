@@ -1,4 +1,10 @@
-# Prompt
+# DeepThought-8B
+[DeepThought-8B](https://huggingface.co/ruliad/deepthought-8b-llama-v0.01-alpha)
+is a fine tuning of [Llama 3.1 8B](https://ai.meta.com/blog/meta-llama-3-1/) 
+designed to make AI reasoning more transparent and controllable.
+
+
+## Question
 
 > if you're flying over the desert in a canoe and your wheels fall off, how many pancakes does it take to cover a dog house?
 

@@ -1,11 +1,12 @@
+# Iris
+
 Submission by [@CloudKickOff](https://github.com/CloudKickoff) ([bluesky](https://bsky.app/profile/cloudkickoff.bsky.social))
 
-----
+He says
 
-Response from the system I am working on [Iris] . Iris is designed to takes problems, generate predictions of outcomes of potential paths to take in solving the problems, perform conflict resolution, and then deliver an optimized process back to the user. I was surprised it generated this answer, though it is primed with the concept of hypotheticals.
+> Response from the system I am working on [Iris] . Iris is designed to takes problems, generate predictions of outcomes of potential paths to take in solving the problems, perform conflict resolution, and then deliver an optimized process back to the user. I was surprised it generated this answer, though it is primed with the concept of hypotheticals.
 
----
-# Answer
+## Response
 I know canoes don't have wheels, but in this scenario, "the wheels falling off" is clearly a metaphorical statement. The canoe represents something else, and the wheels represent critical components or mechanisms that are failing. When I hear about all these wheels falling off, it suggests there has been some kind of significant failure.
 
 I think the doghouse is a metaphor for something bad happening or a malfunction occurring. In this context, the broken canoe symbolizes the problem area—just like how a dilapidated doghouse would represent a need for repair and attention. So when I say "the doghouse," I mean it's a representation of the broken canoe.
