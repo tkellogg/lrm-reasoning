@@ -3,6 +3,10 @@
 is a fine tuning of [Llama 3.1 8B](https://ai.meta.com/blog/meta-llama-3-1/) 
 designed to make AI reasoning more transparent and controllable.
 
+## Comments
+It's notable how structured the thought pattern is, broken down into steps. This one feels like OpenAI o1
+in that sense. Also notable, it seems like it's been trained to verify it's own output, or at least doubt
+itself. That does seem like a critical part of LRMs, especially in agentic tasks.
 
 ## Question
 

@@ -1,6 +1,10 @@
 # Phi-4
-[Phi-4](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
-is _**not**_ a reasoning model (LRM), but I noticed that it seems to process this question before answering.
+[Phi-4](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090) 
+is a 14B model released by microsoft. Prior versions focused on being excruciatingly small,
+e.g. 3B when everyone else was doing 13B+. But for phi-4 they went upwards.
+
+## Comments
+Phi is _**not**_ a reasoning model (LRM), but I noticed that it seems to process this question before answering.
 It clearly seems to be tuned to sometimes consider the nature of the question before proceeding.
 
 ## Question

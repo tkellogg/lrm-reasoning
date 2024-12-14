@@ -3,6 +3,13 @@ This is QwQ-32B-Preview in `Q4_K_M`.
 
 [QwQ](https://qwenlm.github.io/blog/qwq-32b-preview/) is Qwen's latest reasoning model. Qwen with questions.
 
+## Comments
+Concurrent thought — it seems like it's handling several trains of thought in round robin fashion. Pick one up,
+take it a ways, drop it. Return again later for further processing.
+
+Sure, LLMs can only emit one token at a time, and therefore can only be working on one line of thought at a time,
+but that doesn't mean they can't have multiple in progress. Standard concurrency vs parallelism conversation.
+
 ## Question
 > if you're flying over the desert in a canoe and your wheels fall off, how many pancakes does it take to cover a dog house?
 
